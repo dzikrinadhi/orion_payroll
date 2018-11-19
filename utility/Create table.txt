@@ -112,3 +112,6 @@ if ($orderby == "nama") {
   "no_telpon_2":"84648448",
   "email":"","tgl_lahir":"2018-10-27"
   }]
+  
+  
+  skripsi di acak acak
